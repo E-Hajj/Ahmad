@@ -1,0 +1,406 @@
+<?xml version="1.0"?>
+
+-<document page-count="1">
+
+
+-<page number="1">
+
+
+-<table data-table="1" data-page="1" data-filename="Budget.pdf">
+
+
+-<tr>
+
+<td>Ahmad El-Hajj N01247366</td>
+
+<td>MARS INC Budget</td>
+
+<td/>
+
+<td/>
+
+<td/>
+
+<td/>
+
+<td/>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+<td>Description</td>
+
+<td>Source</td>
+
+<td>Part #</td>
+
+<td>CAD Unit Cost</td>
+
+<td>USD Unit Cost</td>
+
+<td>Number of units</td>
+
+<td>Link</td>
+
+<td>Comments</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Covy Current Sensor Module Board for Arduino</td>
+
+<td>Amazon</td>
+
+<td>ACS712</td>
+
+<td style="text-align: right">$14.50</td>
+
+<td/>
+
+<td colspan="2">2 https://www.amazon.ca/gp/product/B07TQ5M9MP</td>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+<td>KEYESTUDIO LCD Display 16x2</td>
+
+<td>Amazon</td>
+
+<td/>
+
+<td style="text-align: right">$12.99</td>
+
+<td/>
+
+<td colspan="2">1 https://www.amazon.ca/gp/product/B0177XQE7K</td>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+<td>Gikfun 9v Battery Holder with ON/Off Switch</td>
+
+<td>Amazon</td>
+
+<td>EK2107x2C</td>
+
+<td style="text-align: right">$10.98</td>
+
+<td/>
+
+<td colspan="2">2 https://www.amazon.ca/gp/product/B07G583G88</td>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+<td>Amazon Shipping</td>
+
+<td>Amazon</td>
+
+<td/>
+
+<td style="text-align: right">$0</td>
+
+<td/>
+
+<td/>
+
+<td/>
+
+<td>Student Prime</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Amazon Tax</td>
+
+<td>Amazon</td>
+
+<td/>
+
+<td style="text-align: right">$0</td>
+
+<td/>
+
+<td/>
+
+<td/>
+
+<td>Taxes were already included in the price</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Coupon</td>
+
+<td>Amazon</td>
+
+<td/>
+
+<td style="text-align: right">-$1</td>
+
+<td/>
+
+<td/>
+
+<td/>
+
+<td>Gikfun battery holder had a $1 off coupon</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Velleman Solar Cell 1V 200MA</td>
+
+<td>SAYAL Electronics</td>
+
+<td>1.8x3IN</td>
+
+<td style="text-align: right">$7.95</td>
+
+<td/>
+
+<td colspan="2">1 Location= 1350 Matheson Blvd.E</td>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+<td>Transportation</td>
+
+<td>SAYAL Electronics</td>
+
+<td/>
+
+<td style="text-align: right">$2</td>
+
+<td/>
+
+<td/>
+
+<td>Location= 1350 Matheson Blvd.E</td>
+
+<td>Price of gas used</td>
+
+</tr>
+
+
+-<tr>
+
+<td>DURACELL 9V Battery</td>
+
+<td>Owned</td>
+
+<td/>
+
+<td style="text-align: right">$0</td>
+
+<td/>
+
+<td style="text-align: right">1</td>
+
+<td/>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+<td>Wire Strippers</td>
+
+<td>Owned</td>
+
+<td/>
+
+<td style="text-align: right">$0</td>
+
+<td/>
+
+<td style="text-align: right">1</td>
+
+<td/>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+<td>CanaKit Raspberry Pi 3 Ultimate Starter Kit</td>
+
+<td>Owned</td>
+
+<td style="text-align: right">99153</td>
+
+<td style="text-align: right">$0</td>
+
+<td/>
+
+<td style="text-align: right">1</td>
+
+<td/>
+
+<td>Purchased 2 years ago</td>
+
+</tr>
+
+
+-<tr>
+
+<td>2.5A Power Adapter</td>
+
+<td>Owned</td>
+
+<td/>
+
+<td style="text-align: right">$0</td>
+
+<td/>
+
+<td style="text-align: right">1</td>
+
+<td/>
+
+<td>Came with Raspberry pi</td>
+
+</tr>
+
+
+-<tr>
+
+<td>LEDs</td>
+
+<td>owned</td>
+
+<td/>
+
+<td style="text-align: right">$0</td>
+
+<td/>
+
+<td style="text-align: right">8</td>
+
+<td/>
+
+<td>Came with Raspberry pi</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Adruino Uno R3 Atmega328P</td>
+
+<td>Owned</td>
+
+<td>EL-CB-001</td>
+
+<td style="text-align: right">$0</td>
+
+<td/>
+
+<td style="text-align: right">1</td>
+
+<td/>
+
+<td>Purchased a year ago.</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Adruino Uno USB cable</td>
+
+<td>Owned</td>
+
+<td/>
+
+<td style="text-align: right">$0</td>
+
+<td/>
+
+<td style="text-align: right">1</td>
+
+<td/>
+
+<td>Came with the product</td>
+
+</tr>
+
+
+-<tr>
+
+<td>Total for parts from US sources</td>
+
+<td/>
+
+<td/>
+
+<td style="text-align: right">$0</td>
+
+<td/>
+
+<td/>
+
+<td/>
+
+<td/>
+
+</tr>
+
+
+-<tr>
+
+<td>CAD$ Total</td>
+
+<td/>
+
+<td/>
+
+<td style="text-align: right">$47.67</td>
+
+<td/>
+
+<td/>
+
+<td/>
+
+<td/>
+
+</tr>
+
+</table>
+
+</page>
+
+</document>
