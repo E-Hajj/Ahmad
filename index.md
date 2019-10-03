@@ -4,12 +4,9 @@ Solar Panel Gazebo
 -------------------
 Proof of Payement 
 
-![Current Sensor](/image/Current%20Sensor.png)
-
+![Image Solar](image/Solar%20Panel.jpg)
 ![LCD Display](/image/LCD_Display.png)
-
-![Solar Panel](/image/Solar%20Panel.jpg)
-![Image](image/Current%20Sensor.png)
+![Image Cureent Sensor](image/Current%20Sensor.png)
 
 
 
