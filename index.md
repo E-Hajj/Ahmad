@@ -11,7 +11,7 @@ Proof of Payement
 
 ### September 26 2019 (Week 4)
 --------------------
-Completed my [budget](documentation/Budget.pdf
+Completed my [budget](documentation/Budget.pdf)
 
 
 ### September 19 2019 (Week 3)
