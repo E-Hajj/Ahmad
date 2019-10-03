@@ -16,7 +16,7 @@ Completed my [budget](documentation/Budget.pdf
 
 ### September 19 2019 (Week 3)
 ----------------------------
-Created [proposal](documentation/ProjectSchedule.pdf).
+Created [Project Schedule](documentation/ProjectSchedule.pdf).
 
 
 
