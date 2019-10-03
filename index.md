@@ -1,10 +1,5 @@
 Solar Panel Gazebo
 ---------------
-
-### September 26 2019
---------------------
-Completed my budget
-
 ### October 2 2019
 -------------------
 Proof of Payement 
@@ -14,4 +9,11 @@ Proof of Payement
 ![LCD Display](/image/LCD_Display.png)
 
 ![Solar Panel](/image/Solar%20Panel.jpg)
+
+
+### September 26 2019
+--------------------
+Completed my budget
+
+
 
