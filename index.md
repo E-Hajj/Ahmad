@@ -11,13 +11,11 @@ Proof of Payement
 
 ### September 26 2019 (Week 4)
 --------------------
-Completed my budget
+Completed my [budget](documentation/Budget.pdf
 
 
 ### September 19 2019 (Week 3)
 ----------------------------
-Completed Project 
-Created [proposal] (documentation/ProjectSchedule.pdf)
 Created [proposal](documentation/ProjectSchedule.pdf).
 
 
