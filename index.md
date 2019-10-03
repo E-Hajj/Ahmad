@@ -9,6 +9,8 @@ Proof of Payement
 ![LCD Display](/image/LCD_Display.png)
 
 ![Solar Panel](/image/Solar%20Panel.jpg)
+![Image of Schedule](https://github.com/E-Hajj/Ahmad/blob/master/image/Current%20Sensor.png)
+
 
 
 ### September 26 2019
