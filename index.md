@@ -17,8 +17,7 @@ Completed my budget
 ### September 19 2019 (Week 3)
 ----------------------------
 Completed Project 
-![Image of Schedule](documentation/ProjectSchedule.pdf)
-
+Created [proposal] (documentation/ProjectSchedule.pdf)
 
 
 
