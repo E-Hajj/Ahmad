@@ -18,6 +18,7 @@ Completed my budget
 ----------------------------
 Completed Project 
 Created [proposal] (documentation/ProjectSchedule.pdf)
+Created [proposal](documentation/ProjectSchedule.pdf).
 
 
 
