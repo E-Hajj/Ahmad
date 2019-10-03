@@ -1,18 +1,23 @@
 Solar Panel Gazebo
 ---------------
-### October 2 2019
+### October 3 2019(Week 5)
 -------------------
 Proof of Payement 
 
-![Image Solar](image/Solar%20Panel.jpg)
 ![LCD Display](/image/LCD_Display.png)
 ![Image Cureent Sensor](image/Current%20Sensor.png)
+![Image Solar](image/Solar.PNG)
 
 
-
-### September 26 2019
+### September 26 2019 (Week 4)
 --------------------
 Completed my budget
+
+
+### September 19 2019 (Week 3)
+----------------------------
+Completed Project
+
 
 
 
