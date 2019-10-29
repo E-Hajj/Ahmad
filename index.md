@@ -3,6 +3,7 @@ Solar Panel Gazebo
 ### October 17 2019 (week 7)
 ------------
 Created [PCB Design](https://github.com/E-Hajj/Ahmad/tree/master/Electronics).
+![PCB_Design](/Electronics/Current_ADC_PCB.png)
 
 ### October 10 2019(Week 6)
 --------------------------
