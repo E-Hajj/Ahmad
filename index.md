@@ -1,5 +1,10 @@
 Solar Panel Gazebo
 ---------------
+## October 24 2019 (Week 8)
+-----------------
+Raspberry pi boot up
+im able to ssh the raspberry through an ethernet cable and through wifi.
+
 ### October 17 2019 (week 7)
 ------------
 Created [PCB Design](https://github.com/E-Hajj/Ahmad/tree/master/Electronics).
