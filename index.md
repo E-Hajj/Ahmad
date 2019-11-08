@@ -1,6 +1,12 @@
 Solar Panel Gazebo
 ---------------
-## October 24 2019 (Week 8)
+## November 7 2019 (Week 9)
+-----------------
+PCB soldered up but issues with the pcb. Version 2 will be made soon.
+## October 31 2019 (Week 8)
+-----------------
+Issues with displaying the readings at the moment 
+## October 24 2019 (Reading Week)
 -----------------
 Raspberry pi boot up
 im able to ssh the raspberry through an ethernet cable and through wifi.
