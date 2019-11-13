@@ -1,11 +1,14 @@
 Solar Panel Gazebo
 ---------------
+
 ## November 7 2019 (Week 9)
 -----------------
-PCB soldered up but issues with the pcb. Version 2 will be made soon.
+![PCB_Design](image/PCB_BottomViewV1.jpg)
+
 ## October 31 2019 (Week 8)
 -----------------
--Readings of the sensors are working 
+Sensors are working and are being displayed
+
 Created [Readings Code](Code/simpletest.py).
 ![Readings](/image/Readings.png)
 
@@ -17,8 +20,8 @@ Created [Readings Code](Code/simpletest.py).
 ### October 17 2019 (week 7)
 ------------
 Created [PCB Design](https://github.com/E-Hajj/Ahmad/tree/master/Electronics).
-![PCB_Design](/Electronics/Version%201/Current_ADC_PCB.png)
-![PCB_Design](/Electronics/Version%201/Current_ADC_Bread.png)
+![PCB_Design](Electronics/Version%201/Current_ADC_PCB.png)
+![PCB_Design](Electronics/Version%201/Current_ADC_Bread.png)
 ### October 10 2019(Week 6)
 --------------------------
 Show your acquisitions/Check in meeting
