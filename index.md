@@ -17,8 +17,8 @@ Created [Readings Code](Code/simpletest.py).
 ### October 17 2019 (week 7)
 ------------
 Created [PCB Design](https://github.com/E-Hajj/Ahmad/tree/master/Electronics).
-![PCB_Design](/Electronics/Current_ADC_PCB.png)
-
+![PCB_Design](/Electronics/Version%201/Current_ADC_PCB.png)
+![PCB_Design](/Electronics/Version%201/Current_ADC_Bread.png)
 ### October 10 2019(Week 6)
 --------------------------
 Show your acquisitions/Check in meeting
