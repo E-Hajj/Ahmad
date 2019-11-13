@@ -5,11 +5,14 @@ Solar Panel Gazebo
 PCB soldered up but issues with the pcb. Version 2 will be made soon.
 ## October 31 2019 (Week 8)
 -----------------
-Issues with displaying the readings at the moment 
+-Readings of the sensors are working 
+Created [Readings Code](Code/simpletest.py).
+![Readings](/image/Readings.png)
+
 ## October 24 2019 (Reading Week)
 -----------------
-Raspberry pi boot up
-im able to ssh the raspberry through an ethernet cable and through wifi.
+-Raspberry pi boot up
+-able to ssh the raspberry pi through ethernet cable and through wifi.
 
 ### October 17 2019 (week 7)
 ------------
