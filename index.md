@@ -2,7 +2,7 @@ Solar Panel Gazebo
 ---------------
 ### November 14 2019 (Week 10)
 -----------------
-created [Progress Report](Electronics).
+created [Progress Report](Documentation/Progress%20Report.pdf).
 PCB Version 2 has been soldered.
 
 ### November 7 2019 (Week 9)
