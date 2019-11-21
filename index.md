@@ -3,8 +3,8 @@ Solar Panel Gazebo
 ### November 20 2019 (Week 11)
 -----------------
 Case Has been 3D printed and assembled.The only issue i have is the lid wont fit due to the high of the pcb and sensors. I will be making a version 2 to properly enclose the raspberry pi.
-[Back Panel](Electronics/Version%202)
-![PCB](Raspberry%20pi%20case/back_panel_SD.stl)
+[Back Panel](Raspberry%20pi%20case/back_panel_SD.stl)
+[Back Panel](Raspberry%20pi%20case/bottom_panel.stl)
 
 ### November 14 2019 (Week 10)
 -----------------
