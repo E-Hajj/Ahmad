@@ -2,8 +2,7 @@ Solar Panel Gazebo
 ---------------
 ### November 20 2019 (Week 11)
 -----------------
-![PCB](Raspberry%20pi%20case/back_panel_SD.stl)
-
+![PCB](Raspberry%20pi%20case/back_panel_SD.stl
 
 ### November 14 2019 (Week 10)
 -----------------
