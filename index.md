@@ -9,6 +9,9 @@ Case Has been 3D printed and assembled.The only issue i have is the lid wont fit
 [Side Panel](Raspberry%20pi%20case/side_panel_GPIO_updated.stl)\
 [Side Panel HDMI](Raspberry%20pi%20case/side_panel_HDMI.stl)\
 [Top Panel](Raspberry%20pi%20case/top_panel.stl)
+![PCB](image/20191121_135253.jpg)
+![PCB](image/20191121_154557.jpg)
+![PCB](image/20191121_154604.jpg)
 ### November 14 2019 (Week 10)
 -----------------
 
