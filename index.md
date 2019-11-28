@@ -5,7 +5,7 @@ Solar Panel Gazebo
 ------------------------
 Presetation time 1:35
 Presentation completed 
-[Presentation](/Presentation)
+[Presentation](Presentation/Ahmad%20Presentation%20Hardware%20-%20Copy.pptx)
 
 
 ### November 20 2019 (Week 11)
