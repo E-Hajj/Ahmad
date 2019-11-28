@@ -5,7 +5,7 @@ Solar Panel Gazebo
 ------------------------
 Presetation time 1:35
 Presentation completed 
-[Presentation](Presentation)
+[Presentation](/Presentation)
 
 
 ### November 20 2019 (Week 11)
