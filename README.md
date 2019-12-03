@@ -6,11 +6,13 @@
 * [Requirements](#Requirements)
 
 ## General info
+
 This repository contains the implementation of a feasibility study for automatic readings of a solar panel. The project will heavily focus on measuring the current of the solar panel in Amps.
 
 ![PCB](image/20191121_154604.jpg)
 
 ## Structure 
+
 1.  [Documentation](https://github.com/E-Hajj/Ahmad/tree/master/documentation) of the solar repository.  
 2.  [Code](https://github.com/E-Hajj/Ahmad/tree/master/Code) contains the source code to interact with the solar panel and sensors.   
 3.  [Electronics](https://github.com/E-Hajj/Ahmad/tree/master/Electronics) holds the contents of the PCB design,schematic and breadboard design.  
@@ -19,5 +21,7 @@ This repository contains the implementation of a feasibility study for automatic
 
 
 ## Requirements
+
+In this project you will need the certain requirements to build this project.
 
 
