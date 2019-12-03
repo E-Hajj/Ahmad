@@ -60,7 +60,7 @@ In this project you will need the required components to build this project.
  2. Line up the 10 and 3 pin sockets to their corresponding connection as seens in this picture, Then solder.
  ![PCB](image/PCB_BottomViewV1.jpg)
  3. Once completed you must check if all pins are fully covered in solder an are stable. 
- 4. To make sure all connections are fine and the board isnt damage you must use a digital multi meter and measure the resistance 
+ 4. To make sure all connections are fine and the board isnt damage you must use a digital multi meter and measure the resistance between each ports. The readings should be overload for the ports that shouldnt be connected. The corresponding pin to pin should show a little resisitance.
  
  
  ## 3D Printing
