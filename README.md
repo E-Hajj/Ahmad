@@ -23,5 +23,9 @@ This repository contains the implementation of a feasibility study for automatic
 ## Requirements
 
 In this project you will need the certain requirements to build this project.
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 
