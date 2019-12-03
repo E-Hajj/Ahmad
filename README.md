@@ -10,7 +10,9 @@ This repository contains the implementation of a feasibility study for automatic
 
 ![PCB](image/20191121_154604.jpg)
 
-**Structure**
+## Structure 
+ [Documentation](https://github.com/E-Hajj/Ahmad/tree/master/documentation)of the solar repository.
+ Source[code](https://github.com/E-Hajj/Ahmad/tree/master/Code) 
 
 
 
