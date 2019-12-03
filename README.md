@@ -9,7 +9,7 @@ By Ahmad El-Hajj
 * [Requirements](#Requirements)
 
 ## General info
-
+This repository contains the implementation of a feasibility study for automatic readings of a solar panel. The 
 
 
 ## Requirements
