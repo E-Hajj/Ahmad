@@ -23,10 +23,10 @@ This repository contains the implementation of a feasibility study for automatic
 ## Requirements
 
 In this project you will need the certain requirements to build this project.
-* Raspberr pi 3  
+* Raspbery pi 3  
   * If you dont own an raspberry pi 3 i would recommed buying one from [Amazon](https://www.amazon.ca/s?k=raspberry+pi+3&ref=nb_sb_noss_2) or [Sayal Electronics](https://secure.sayal.com/STORE2/index.php). 
-* 
-  * Item 2a
+* Acs712 (current sensor)
+  * I would recoomend getting it from [Amazon](https://www.amazon.ca/COVVY-Current-Arduino-ACS712ELC-20A-Indicator/dp/B07TQ5M9MP/ref=sr_1_2_sspa?gclid=CjwKCAiArJjvBRACEiwA-Wiqq8mHMc1JzZT1BMymqLKF9jO-BrsuzXUFn7JWweUKXyQUBpmXN-AduxoC1csQAvD_BwE&hvadid=208460006382&hvdev=c&hvlocphy=9000826&hvnetw=g&hvpos=1t2&hvqmt=e&hvrand=8319947952554246574&hvtargid=kwd-298127854743&hydadcr=4516_9156520&keywords=acs712&qid=1575398013&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFJWVVBN1pEVTJGQlomZW5jcnlwdGVkSWQ9QTA3MjUwNTgzM0tNWklaQzJVSjI0JmVuY3J5cHRlZEFkSWQ9QTA3MDIwMzUyMTZFUjhCNTRQRU1DJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) becuase it comes in a pack of 2 incase one breaks or is faulty.  
   * Item 2b
 
 
