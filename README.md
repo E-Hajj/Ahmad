@@ -12,8 +12,8 @@ This repository contains the implementation of a feasibility study for automatic
 
 ## Structure 
  [Documentation](https://github.com/E-Hajj/Ahmad/tree/master/documentation)of the solar repository.  
- Source [code](https://github.com/E-Hajj/Ahmad/tree/master/Code) 
-
+ Source [code](https://github.com/E-Hajj/Ahmad/tree/master/Code) to interact with the solar panel. 
+ [Electronics](https://github.com/E-Hajj/Ahmad/tree/master/Electronics) 
 
 
 ## Requirements
