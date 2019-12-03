@@ -4,7 +4,7 @@
 * [Structure](#general-info)
 * [Requirements](#Requirements)
 * [PCB](#Requirements)
-* [3D print](#3D Printing)
+* [3D print](#3DPrinting)
 * [Soldering](#Soldering)
 
 
