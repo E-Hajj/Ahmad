@@ -1,3 +1,2 @@
-# Ahmad
-Solar Panel Gazebo
-### Test
+# Solar Panel Gazebo 
+By Ahmad El-Hajj
