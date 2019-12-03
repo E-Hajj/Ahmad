@@ -4,6 +4,9 @@
 * [Structure](#general-info)
 * [Requirements](#Requirements)
 * [PCB](#Requirements)
+* [3D print](#3D Printing)
+* [Soldering](#Soldering)
+
 
 ## General info
 
@@ -40,6 +43,24 @@ In this project you will need the required components to build this project.
 * Safety eyewear 
   * Very important since you will be soldering and cutting and stripping wire 
   * Safety First
+  
+ ## PCB
+ I would strongly recommend ordering your parts before you continue on to this part. Usually the parts will take 3 to 5 days due to shipping unless you have amazon prime then it should take a day or two. While waiting for the parts you should start working on the breadboard and PCB board. Creating the PCB will take time depending where you get it made so i would strongly recommed that you get it made right away as it would take time.
+ 
+ 1. Get the PCB board made 
+ 2. set up the breadboard for future testing of the sensors and componenets.
+ 
+ 
+ ## Soldering 
+ 
+ 
+ 
+ ## 3D Printing
+ 
+ 
+ 
+ 
+ 
    
 
  
