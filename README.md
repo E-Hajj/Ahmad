@@ -54,7 +54,7 @@ In this project you will need the required components to build this project.
  
  
  ## Soldering 
- 
+ * If youve never soldered before i would recommend you to watch these videos on how to solder and safety as well.* [Video](https://www.youtube.com/watch?v=BLfXXRfRIzY&list=PLQ32vZrF5U2lFOJTtZDytBWBYVLNp4RYz)
  
  
  ## 3D Printing
