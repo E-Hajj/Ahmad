@@ -6,6 +6,8 @@
 * [PCB](#Requirements)
 * [3D Print](#3DPrinting)
 * [Soldering](#Soldering)
+* [Unit Testing](#Unit Testing)
+* [Soldering](#Soldering)
 
 
 ## General info
@@ -56,6 +58,12 @@ In this project you will need the required components to build this project.
  
  
  ## 3DPrinting
+ 
+ 
+ ## Unit Testing 
+ 
+ 
+ ## Assembly
  
  
  
