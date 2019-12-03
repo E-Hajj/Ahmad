@@ -1,4 +1,4 @@
-# Solar Panel Gazebo 
+# Solar Panel Gazebo Build Instructions
 ## Table of contents
 * [General info](#general-info)
 * [Structure](#general-info)
