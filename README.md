@@ -2,8 +2,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Structure](#general-info)
-
 * [Requirements](#Requirements)
+* [PCB](#Requirements)
 
 ## General info
 
