@@ -57,6 +57,10 @@ In this project you will need the required components to build this project.
  * If youve never soldered before i would recommend you to watch these videos on how to solder and safety as well. [Video](https://www.youtube.com/watch?v=BLfXXRfRIzY&list=PLQ32vZrF5U2lFOJTtZDytBWBYVLNp4RYz)
  1. When soldering the PCB make sure the 6 pin socket is at the bottom of the board.
  ![PCB](image/PCB_TopViewV1.jpg)
+ 2. Line up the 10 and 3 pin sockets to their corresponding connection as seens in this picture, Then solder.
+ ![PCB](image/PCB_BottomViewV1.jpg)
+ 3. Once completed you must check if all pins are fully covered in solder an are stable. 
+ 4. To make sure all connections are fine and the board isnt damage you must use a digital multi meter and measure the resistance 
  
  
  ## 3D Printing
