@@ -34,6 +34,9 @@ In this project you will need the required components to build this project.
 * Wire Stripper/cutters
   * If you already own them please make sure they work and are well sharpened.
    * [Amazon](https://www.amazon.ca/gp/product/B005HQR1YK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+* Safety eyewear 
+  * Very important since you will be soldering and cutting and stripping wire 
+  * Safety First
    
 
  
