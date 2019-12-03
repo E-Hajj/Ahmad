@@ -30,7 +30,7 @@ In this project you will need the required components to build this project.
 * Ads1115 (Analog to Digital Converter)
    * [Amazon](https://www.amazon.ca/gp/product/B07GBYY54P/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) would be a great option for this component, because the shipping is very quick for this.
 * Velleman Solar Cell 1V 200MA 
- * I would strongly recommend  [Sayal Electronics](https://secure.sayal.com/STORE2/index.php) sinces its cheaper and always in stock.
+   * I would strongly recommend  [Sayal Electronics](https://secure.sayal.com/STORE2/index.php) sinces its cheaper and always in stock.
 
  
    
