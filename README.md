@@ -55,6 +55,8 @@ In this project you will need the required components to build this project.
  
  ## Soldering 
  * If youve never soldered before i would recommend you to watch these videos on how to solder and safety as well. [Video](https://www.youtube.com/watch?v=BLfXXRfRIzY&list=PLQ32vZrF5U2lFOJTtZDytBWBYVLNp4RYz)
+ 1. When soldering the PCB make sure the 6 pin socket is at the bottom of the board.
+ ![PCB](image/PCB_TopViewV1.jpg)
  
  
  ## 3D Printing
