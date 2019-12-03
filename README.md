@@ -24,8 +24,7 @@ This repository contains the implementation of a feasibility study for automatic
 
 In this project you will need the certain requirements to build this project.
 * Raspberr pi 3  
-  * If you dont own an raspberry pi 3 i would recommed buying one from [Amazon](https://www.amazon.ca/s?k=raspberry+pi+3&ref=nb_sb_noss_2) or Sayal Electronics.  
-
+  * If you dont own an raspberry pi 3 i would recommed buying one from [Amazon](https://www.amazon.ca/s?k=raspberry+pi+3&ref=nb_sb_noss_2) or [Sayal Electronics](https://secure.sayal.com/STORE2/index.php). 
 * 
   * Item 2a
   * Item 2b
