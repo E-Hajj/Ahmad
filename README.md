@@ -4,7 +4,7 @@
 * [Structure](#general-info)
 * [Requirements](#Requirements)
 * [PCB](#Requirements)
-* [3D print](#3DPrinting)
+* [3D Print](#3DPrinting)
 * [Soldering](#Soldering)
 
 
@@ -55,7 +55,7 @@ In this project you will need the required components to build this project.
  
  
  
- ## 3D Printing
+ ## 3DPrinting
  
  
  
