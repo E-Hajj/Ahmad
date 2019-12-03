@@ -11,9 +11,11 @@ This repository contains the implementation of a feasibility study for automatic
 ![PCB](image/20191121_154604.jpg)
 
 ## Structure 
- [Documentation](https://github.com/E-Hajj/Ahmad/tree/master/documentation)of the solar repository.  
- Source [code](https://github.com/E-Hajj/Ahmad/tree/master/Code) to interact with the solar panel. 
- [Electronics](https://github.com/E-Hajj/Ahmad/tree/master/Electronics) 
+ [Documentation](https://github.com/E-Hajj/Ahmad/tree/master/documentation) of the solar repository.  
+ [Code](https://github.com/E-Hajj/Ahmad/tree/master/Code) contains the source code to interact with the solar panel and sensors.   
+ [Electronics](https://github.com/E-Hajj/Ahmad/tree/master/Electronics) holds the contents of the PCB design,schematic and breadboard design.  
+ [Raspberry pi Case](https://github.com/E-Hajj/Ahmad/tree/master/Raspberry%20pi%20case) contains the required build for the case.  
+ [Images](https://github.com/E-Hajj/Ahmad/tree/master/image) of the project.
 
 
 ## Requirements
