@@ -1,3 +1,3 @@
 # Solar Panel Gazebo 
-##Build Instructions
+### uild Instructions
 By Ahmad El-Hajj
