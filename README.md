@@ -47,7 +47,10 @@ In this project you will need the required components to build this project.
   * Safety First
 * **Soldering kit** *$29.99*
   * you will need some sort of soldering iron and solder to put together the PCB.
-  *[Amazon](https://www.amazon.ca/gp/product/B07L3VNMKX/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+  * [Amazon](https://www.amazon.ca/gp/product/B07L3VNMKX/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+* Socket kit 
+  * you will need a 6 pin socket, 10 pin and a 3 pin socket.
+  * [Amazon](https://secure.sayal.com/STORE2/index.php)
   
  ## PCB
  I would strongly recommend ordering your parts before you continue on to this part. Usually the parts will take 3 to 5 days due to shipping unless you have amazon prime then it should take a day or two. While waiting for the parts you should start working on the breadboard and PCB board. Creating the PCB will take time depending where you get it made so i would strongly recommed that you get it made right away as it would take time.
