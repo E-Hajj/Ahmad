@@ -28,7 +28,7 @@ This repository contains the implementation of a feasibility study for automatic
 ## Requirements
 
 In this project you will need the required components to build this project.
-* **Raspbery pi 3**   *$114
+* **Raspbery pi 3**   *$114*
   * Power supply 2A micro usb 
   * Ethernet cable and hdmi cable
   * Sd card for the software
