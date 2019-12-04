@@ -42,11 +42,12 @@ In this project you will need the required components to build this project.
 * **Wire Stripper/cutters** *$6.56*
   * If you already own them please make sure they work and are well sharpened.
    * [Amazon](https://www.amazon.ca/gp/product/B005HQR1YK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-* Safety eyewear 
+* **Safety eyewear** *$2.91*
   * Very important since you will be soldering and cutting and stripping wire 
   * Safety First
-* Soldering kit 
+* **Soldering kit** *$29.99*
   * you will need some sort of soldering iron and solder to put together the PCB.
+  *[Amazon](https://www.amazon.ca/gp/product/B07L3VNMKX/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
   
  ## PCB
  I would strongly recommend ordering your parts before you continue on to this part. Usually the parts will take 3 to 5 days due to shipping unless you have amazon prime then it should take a day or two. While waiting for the parts you should start working on the breadboard and PCB board. Creating the PCB will take time depending where you get it made so i would strongly recommed that you get it made right away as it would take time.
