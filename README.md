@@ -143,8 +143,7 @@ In this project you will need the required components to build this project. The
  
  * **Make sure you pinch the side to be able to fit them in**
  
- 3. Now you will to place the raspberry pi inside the case.
- 
+ 3. Now you will to place the raspberry pi inside the case.  
  
  4. Connect the back piece of the case and remember to pinch the connections to be able to fit them 
  
