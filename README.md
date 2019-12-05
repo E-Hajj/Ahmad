@@ -3,7 +3,7 @@
 * [General info](#general-info)
 * [Structure](#general-info)
 * [Requirements](#Requirements)
-* [PCB](#Requirements)
+* [PCB](#PCB)
 * [3D Print](#3D-Printing)
 * [Soldering](#Soldering)
 * [Unit Testing](#Unit-Testing)
@@ -99,9 +99,12 @@ In this project you will need the required components to build this project. The
  ## Unit Testing 
  
  Once all Parts have arrived you can start testing your sensors before you test them on the PCB board.  
-```hello                                                                                                                ```
- 
- 
+ 1. Testing the sensors.
+     1.a if you havnt connected the parts on the breadboard please follow [PCB](#PCB)
+       b. You will need to be able to connect to your pi. If you havn't booted the operating sytem please follow this link.[Link]( https://www.raspberrypi.org/help/noobs-setup/2/)
+```hello ```
+
+
  
  ## Assembly
  
