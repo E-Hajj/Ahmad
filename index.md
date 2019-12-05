@@ -1,11 +1,19 @@
 Solar Panel Gazebo
 ---------------
 
+## December 5 2019 (Week 14)
+-------------------
+Worked on the build instructions completed %60 so far
+Uploaded vidoes of the readings in the images folder.
+
 ### November 28 2019 (Week12
 ------------------------
 Presetation time 1:35
+completed demonstration of readings with sensor
 Presentation completed 
 [Presentation](Presentation/Ahmad%20Presentation%20Hardware%20-%20Copy.pptx)
+
+
 
 
 ### November 20 2019 (Week 11)
