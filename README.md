@@ -128,19 +128,30 @@ In this project you will need the required components to build this project. The
      
      
     3. The ouput
-     ![Readings]( image/Readings.png)
+     ![Readings]( image/Readings.png)  
      
      
-     4. For any errors please follow this[Link](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/ads1015-slash-ads1115)
-
-    
-     
-     
-
+     4. For any errors please follow this [Link](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/ads1015-slash-ads1115)
 
 
  
- ## Assembly
+ ##  Assembly
+ Now since everything is working we will now put everything together.
+ 1. We will be putting the case pieces together to enclose our raspberry pi.
+ 2. We will need to grab the front piece of the raspberry pi and connect the two side together. 
+ 
+ 
+ * **Make sure you pinch the side to be able to fit them in**
+ 
+ 3. Now you will to place the raspberry pi inside the case.
+ 
+ 
+ 4. Connect the back piece of the case and remember to pinch the connections to be able to fit them 
+ 
+ 
+ 
+ 
+ ## Product Testing 
  
  
  
