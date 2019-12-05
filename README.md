@@ -69,6 +69,11 @@ In this project you will need the required components to build this project. The
 * [Side Panel](Raspberry%20pi%20case/side_panel_GPIO_updated.stl)  
 * [Side Panel HDMI](Raspberry%20pi%20case/side_panel_HDMI.stl)  
 * [Top Panel](Raspberry%20pi%20case/top_panel.stl)  
+ You will need a type of software that connects to 3d printers and reads .stl files. I would recommend [Cura](https://ultimaker.com/software/ultimaker-cura) since its very easy and simple to operate. 
+ 1. Open all the .stl files that you downloaded in Cura.
+ 2. The top right Settings in Cura is the setting or style of the print it looks like this.
+  ![Cura](image/CuraSettings.PNG)
+
  
  
  ## Soldering 
