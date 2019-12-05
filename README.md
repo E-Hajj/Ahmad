@@ -107,12 +107,12 @@ In this project you will need the required components to build this project. The
  2. Testing the Sensors
      2.a You will need to insall some of the code and libraries, so please type these command lines
      
-     ```sudo apt-get update
+     ```sudo apt-get update```
      sudo apt-get install build-essential python-dev python-smbus git
      cd ~
      git clone https://github.com/adafruit/Adafruit_Python_ADS1x15.git
      cd Adafruit_Python_ADS1x15
-     sudo python setup.py install```
+     sudo python setup.py install
      
      
     
