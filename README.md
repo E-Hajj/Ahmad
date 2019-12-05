@@ -98,6 +98,10 @@ In this project you will need the required components to build this project. The
  
  ## Unit Testing 
  
+ Once all Parts have arrived you can start testing your sensors before you test them on the PCB board.
+```hello```
+ 
+ 
  
  ## Assembly
  
