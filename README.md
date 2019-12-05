@@ -127,7 +127,12 @@ In this project you will need the required components to build this project. The
      ```nano simpletest.py```
      
      
+    3. The ouput
+     ![Readings]( image/Readings.png)
      
+     
+     4. For any errors please follow this[Link](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/ads1015-slash-ads1115)
+
     
      
      
