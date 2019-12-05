@@ -62,13 +62,13 @@ In this project you will need the required components to build this project. The
  2. set up the breadboard for future testing of the sensors and componenets.
  
  ## 3D Printing
- While you wait for the components to come in you can start working on the raspberry pi case. This folder will contain all the certian pieces need to assemble the case. It comes in like lego pieces that gets assembled together. This folder [Raspberry pi Case](https://github.com/E-Hajj/Ahmad/tree/master/Raspberry%20pi%20case) contains all the .stl files that needs printing. Download all the files needed. 
-[Back Panel](Raspberry%20pi%20case/back_panel_SD.stl)  
-[Bottom Panel](Raspberry%20pi%20case/bottom_panel.stl)  
-[Front Panel](Raspberry%20pi%20case/front_panel_USB.stl)  
-[Side Panel](Raspberry%20pi%20case/side_panel_GPIO_updated.stl)  
-[Side Panel HDMI](Raspberry%20pi%20case/side_panel_HDMI.stl)  
-[Top Panel](Raspberry%20pi%20case/top_panel.stl)  
+ While you wait for the components to come in you can start working on the raspberry pi case. This folder will contain all the certian pieces need to assemble the case. It comes in like lego pieces that gets assembled together. This folder [Raspberry pi Case](https://github.com/E-Hajj/Ahmad/tree/master/Raspberry%20pi%20case) contains all the .stl files that needs printing. Download all the files needed.  
+* [Back Panel](Raspberry%20pi%20case/back_panel_SD.stl)  
+* [Bottom Panel](Raspberry%20pi%20case/bottom_panel.stl)  
+* [Front Panel](Raspberry%20pi%20case/front_panel_USB.stl)  
+* [Side Panel](Raspberry%20pi%20case/side_panel_GPIO_updated.stl)  
+* [Side Panel HDMI](Raspberry%20pi%20case/side_panel_HDMI.stl)  
+* [Top Panel](Raspberry%20pi%20case/top_panel.stl)  
  
  
  ## Soldering 
