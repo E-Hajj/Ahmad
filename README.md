@@ -8,7 +8,7 @@ This repository contains the implementation of a feasibility study for automatic
 
 ## Table of contents
 * [General info](#general-info)
-* [Structure](#general-info)
+* [Repository Structure](#Repository-Structure)
 * [Requirements](#Requirements)
 * [PCB](#PCB)
 * [3D Print](#3D-Printing)
@@ -19,7 +19,7 @@ This repository contains the implementation of a feasibility study for automatic
 
 
 
-## Structure 
+## Repository Structure 
 
 1.  [Documentation](https://github.com/E-Hajj/Ahmad/tree/master/documentation) of the solar repository.  
 2.  [Code](https://github.com/E-Hajj/Ahmad/tree/master/Code) contains the source code to interact with the solar panel and sensors.   
