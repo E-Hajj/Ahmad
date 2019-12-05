@@ -27,7 +27,8 @@ This repository contains the implementation of a feasibility study for automatic
 
 ## Requirements
 
-In this project you will need the required components to build this project.
+In this project you will need the required components to build this project. The total budget is  $195.34 not including tax or shipping or any other fees and prices may rise or fall. Depending if you have amazon prime and able to go to Sayal Electronics your products should arrive 1 to 5 days. While waiting for your components to arrive i would recommended starting on the pcb and 3d printing.
+
 * **Raspbery pi 3**   *$114*
   * Power supply 2A micro usb 
   * Ethernet cable and hdmi cable
@@ -48,15 +49,19 @@ In this project you will need the required components to build this project.
 * **Soldering kit** *$29.99*
   * you will need some sort of soldering iron and solder to put together the PCB.
   * [Amazon](https://www.amazon.ca/gp/product/B07L3VNMKX/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
-* Socket kit 
-  * you will need a 6 pin socket, 10 pin and a 3 pin socket.
-  * [Amazon](https://secure.sayal.com/STORE2/index.php)
+* **Socket kit** *$3.95*
+  * 6 pin socket
+  * 3 pin socket 
+  * 10 pin socket
+  * [Amazon](https://secure.sayal.com/STORE2/View_SHOP.php?SKU=241160)
   
  ## PCB
  I would strongly recommend ordering your parts before you continue on to this part. Usually the parts will take 3 to 5 days due to shipping unless you have amazon prime then it should take a day or two. While waiting for the parts you should start working on the breadboard and PCB board. Creating the PCB will take time depending where you get it made so i would strongly recommed that you get it made right away as it would take time.
  
  1. Get the PCB board made 
  2. set up the breadboard for future testing of the sensors and componenets.
+ 
+ ## 3D Printing
  
  
  ## Soldering 
@@ -68,9 +73,7 @@ In this project you will need the required components to build this project.
  3. Once completed you must check if all pins are fully covered in solder an are stable. 
  4. To make sure all connections are fine and the board isnt damage you must use a digital multi meter and measure the resistance between each ports. The readings should be overload for the ports that shouldnt be connected. The corresponding pin to pin should show a little resisitance.
  
- 
- ## 3D Printing
- 
+
  
  ## Unit Testing 
  
