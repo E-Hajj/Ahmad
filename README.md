@@ -105,14 +105,27 @@ In this project you will need the required components to build this project. The
      1.c Once thats completed you will need to be able to connect the raspberry through ethernet or SSH. If you havn't done that or not sure please follow this guide. [Link](https://www.youtube.com/watch?v=oM2zVD9rL8I)   
  
  2. Testing the Sensors  
+ 
      2.a You will need to insall some of the code and libraries, so please type these command lines   
      
      ```sudo apt-get update```  
      ```sudo apt-get install build-essential python-dev python-smbus git```  
      ```cd ~```  
-     ```git clone https://github.com/adafruit/Adafruit_Python_ADS1x15.git```
+     ```git clone https://github.com/adafruit/Adafruit_Python_ADS1x15.git```  
      ```cd Adafruit_Python_ADS1x15```  
     ``` sudo python setup.py install```  
+     
+     2.b we will need to install the python package index please follow and type these command lines
+     
+     ```sudo apt-get update```  
+     ```sudo apt-get install build-essential python-dev python-smbus python-pip```  
+     ```sudo pip install adafruit-ads1x15```  
+     
+     2.c Now we will run the simpleTest.file to test the sensors 
+     
+     ```cd ~/Adafruit_Python_ADS1x15/examples```
+     ```nano simpletest.py```
+     
      
      
     
