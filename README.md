@@ -146,14 +146,25 @@ In this project you will need the required components to build this project. The
  
  * **Make sure you pinch the side to be able to fit them in**
  
- 3. Now you will to place the raspberry pi inside the case.  
+ 3. Once its stable you will now connect the base piece to the two sides
  
- 4. Connect the back piece of the case and remember to pinch the connections to be able to fit them 
+ 4. Now you will to place the raspberry pi inside the case.  
+ 
+ 5. Connect the back piece of the case and remember to pinch the connections to be able to fit them 
+ 
+ 6. now plug in the PCB board that you soldered. Make sure you place it in the first 6 pins as seen in this picture.
+ 
+ 7. plug in the Analog to Digital(ADC) in the sockets.
+ 
+ 8. unscrew the the Acs712 to be able to connect the wires of the solar panels.
+ 
+ 9. final step to place the cover of the 
  
  
  
  
  ## Product Testing 
+ if we were to display the 
  
  
  
