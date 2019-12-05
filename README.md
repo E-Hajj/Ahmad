@@ -74,8 +74,8 @@ In this project you will need the required components to build this project. The
  2. Select the type of 3D printer you will be using.
  2. The top right Settings in Cura is the setting or style of the print it looks like this.
   ![Cura](image/CuraSettings.PNG)
- 3. Once completed you will need to press slice on the bottom right. Slice while create a .gcode file that will need to be uploaded to your 3d printer. Depending on your 3D printer you may need to upload it to an SD card and insert it in the printer.
- 4. Once placed you will need to select the file to start printing. 
+ 3. Once completed you will need to press slice on the bottom right. Slice while create a .gcode file that will need to be uploaded to your 3d printer. Depending on your 3D printer you may need to upload it to an SD card and insert it in the printer. ![Cura](image/CuraSlice.PNG)
+ 4. Once placed you will need to select the file to start printing.  
  5. While printing please make sure you check on it every so often because the filler might run out or get stuck or the flat base plate might.
 
  
