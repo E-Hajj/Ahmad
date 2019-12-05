@@ -158,13 +158,14 @@ In this project you will need the required components to build this project. The
  
  8. unscrew the the Acs712 to be able to connect the wires of the solar panels.
  
- 9. final step to place the cover of the 
+ 9. final step to place the cover of the top of the raspberry pie with the top piece.
  
  
  
  
  ## Product Testing 
- if we were to display the 
+ If we were to produce 1000 units we will need to test and produce these projects in a different way. Production will be cheaper as we can buy items in bulk and save more. For the testing side we will be do the testing of the pcbs after all of them are produced
+
  
  
  
