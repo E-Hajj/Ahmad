@@ -4,7 +4,7 @@
 
 This repository contains the implementation of a feasibility study for automatic readings of a solar panel. The project will heavily focus on measuring the current of the solar panel in Amps.
 
-![PCB](image/20191121_154604.jpg)
+![PCB](image/Project.PNG)
 
 ## Table of contents
 * [General info](#general-info)
