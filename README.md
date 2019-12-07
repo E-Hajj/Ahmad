@@ -142,24 +142,24 @@ In this project you will need the required components to build this project. The
  Now since everything is working we will now put everything together.
  1. We will be putting the case pieces together to enclose our raspberry pi.
  2. We will need to grab the front piece of the raspberry pi and connect the two side together. 
-  ![PCB](image/side panel.PNG)
+  ![PCB](image/sidepanel.PNG)
  
  * **Make sure you pinch the side to be able to fit them in**
  
  3. Once its stable you will now connect the base piece to the two sides
- 
+   ![PCB](image/case3.PNG)
  4. Now you will to place the raspberry pi inside the case.  
- 
+ ![PCB](image/case4.PNG)
  5. Connect the back piece of the case and remember to pinch the connections to be able to fit them 
- 
+ ![PCB](image/case5.PNG)
  6. now plug in the PCB board that you soldered. Make sure you place it in the first 6 pins as seen in this picture.
- 
+ ![PCB](image/case6.PNG)
  7. plug in the Analog to Digital(ADC) in the sockets.
- 
+ ![PCB](image/case6.PNG)
  8. unscrew the the Acs712 to be able to connect the wires of the solar panels.
- 
+ ![PCB](image/sensorScrew.PNG)
  9. final step to place the cover of the top of the raspberry pie with the top piece.
- 
+ ![PCB](image/case7.PNG)
  
  
  
