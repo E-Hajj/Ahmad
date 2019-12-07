@@ -109,7 +109,7 @@ In this project you will need the required components to build this project. The
  
  2. Testing the Sensors  
  
-     2.a You will need to insall some of the code and libraries, so please type these command lines   
+     2.a You will need to install some of the code and libraries, so please type these command lines   
      
      ```sudo apt-get update```  
      ```sudo apt-get install build-essential python-dev python-smbus git```  
