@@ -142,7 +142,7 @@ In this project you will need the required components to build this project. The
  Now since everything is working we will now put everything together.
  1. We will be putting the case pieces together to enclose our raspberry pi.
  2. We will need to grab the front piece of the raspberry pi and connect the two side together. 
- 
+  ![PCB](image/side-panel.PNG)
  
  * **Make sure you pinch the side to be able to fit them in**
  
