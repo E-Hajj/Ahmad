@@ -61,8 +61,11 @@ In this project you will need the required components to build this project. The
  ## PCB
  I would strongly recommend ordering your parts before you continue on to this part. Usually the parts will take 3 to 5 days due to shipping unless you have amazon prime then it should take a day or two. While waiting for the parts you should start working on the breadboard and PCB board. Creating the PCB will take time depending where you get it made so i would strongly recommed that you get it made right away as it would take time.
  
- 1. Get the PCB board made 
- 2. set up the breadboard for future testing of the sensors and componenets.
+ 1. Go to [Electronics](https://github.com/E-Hajj/Ahmad/tree/master/Electronics) and download the Fritzing file of version two.
+ 2. When you open the File you will need to click on File->Export->Production->Gerber desing
+ 3. You will need to find a place that prints PCBs and get it made.
+ 4. while you wait on that you can start working on the breadboard. Looking at the fritzing file select the breadboard view and see how the circuit is made. 
+ 5. follow all the connections made. Even if you dont have the sensors you can have it all setup and ready.
  
  ## 3D Printing
  While you wait for the components to come in you can start working on the raspberry pi case. This folder will contain all the certian pieces need to assemble the case. It comes in like lego pieces that gets assembled together. This folder [Raspberry pi Case](https://github.com/E-Hajj/Ahmad/tree/master/Raspberry%20pi%20case) contains all the .stl files that needs printing. Download all the files needed.  
@@ -154,15 +157,15 @@ In this project you will need the required components to build this project. The
  3. Once its stable you will now connect the base piece to the two sides
    ![PCB](image/case3.PNG)
  4. Now you will to place the raspberry pi inside the case.  
- ![PCB](image/case4.PNG)
+ 
  5. Connect the back piece of the case and remember to pinch the connections to be able to fit them 
  ![PCB](image/case5.PNG)
  6. now plug in the PCB board that you soldered. Make sure you place it in the first 6 pins as seen in this picture.
  ![PCB](image/case6.PNG)
- 7. plug in the Analog to Digital(ADC) in the sockets.
- ![PCB](image/case6.PNG)
- 8. unscrew the the Acs712 to be able to connect the wires of the solar panels.
+ 7. unscrew the the Acs712 to be able to connect the wires of the solar panels.
  ![PCB](image/sensorScrew.PNG)
+ 8. plug in the Analog to Digital(ADC) in the sockets.
+ ![PCB](image/case6.PNG)
  9. final step to place the cover of the top of the raspberry pie with the top piece.
  ![PCB](image/case7.PNG)
  
