@@ -15,6 +15,7 @@ This repository contains the implementation of a feasibility study for automatic
 * [Soldering](#Soldering)
 * [Unit Testing](#Unit-Testing)
 * [Assembly](#Assembly)
+* [Product Testing](#Product-Testing)
 
 
 
