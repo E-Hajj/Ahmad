@@ -172,7 +172,7 @@ In this project you will need the required components to build this project. The
  
  
  ## Product Testing 
- If we were to produce 1000 units we will need to test and produce these projects in a different way. Production will be cheaper as we can buy items in bulk and save more. For the testing side we will be do the testing of the pcbs after all of them are produced
+ If we were to produce 1000 units we will need to build and test these projects differently. In productions all parts and required pieces will bought in bulk. Once the PCB's are made they will be tested shortly after they are made. We will have a custom board with pins that will test the PCB before they are soldered. While they get soldered the Pins will test if they are fully covered and are able to transmitt some power through each pin. All sensors will be tested on a custom breadboard and tested to see if they are functioning. 3D prints will be made and assembled at the end to see if the case fits its not clipping then the 3D print needs to be printed again.
 
  
  
